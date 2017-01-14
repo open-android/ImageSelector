@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'//固定不变
 group='com.github.open-android'//itcastsh：github账号
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.3"
