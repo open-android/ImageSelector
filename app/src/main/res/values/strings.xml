@@ -1,0 +1,4 @@
+<resources>
+    <string name="image_selector_select_image">Select Image</string>
+    <string name="image_selector_select_none">No image selected</string>
+</resources>
